@@ -82,7 +82,7 @@ class ViewController: UIViewController {
         
     }
     
-    // MARK: Timer
+    // MARK: Timer 3
     
     func setupTimer() {
         if downLoadTimer == nil  {
